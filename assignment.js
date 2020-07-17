@@ -38,7 +38,7 @@ function brickeCalculator(floor){
        return(afterTwentyFloorCount+ 270000);
    }
    else{
-    return ("Your Calculator is not working")
+    return ("Your Calculator is not working");
    }
 }
 
